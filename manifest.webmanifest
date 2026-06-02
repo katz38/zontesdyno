@@ -1,10 +1,10 @@
 {
-  "name": "Dams Reprog Zontes Dyno V3",
+  "name": "Dams Reprog Zontes Dyno",
   "short_name": "Zontes Dyno",
   "start_url": "./",
   "display": "standalone",
-  "theme_color": "#03111f",
-  "background_color": "#03111f",
+  "theme_color": "#050505",
+  "background_color": "#050505",
   "icons": [
     {
       "src": "icon-192.png",
