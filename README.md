@@ -1,25 +1,5 @@
-# Dams Reprog - Zontes Dyno Reprog Dashboard
+# Zontes Dyno - Dams Reprog
 
-Version GitHub Pages autonome : tout est dans `index.html`.
+Mise à jour GitHub Pages corrigée.
 
-## Fichiers à envoyer
-- index.html
-- README.md
-- manifest.webmanifest
-- apple-touch-icon.png
-- icon-192.png
-- icon-512.png
-- CNAME
-
-## URL personnalisée
-Le fichier CNAME contient :
-dyno.damsreprog.fr
-
-## Fonctionnalités
-- Interface dashboard proche maquette
-- Tous les modèles Zontes 125 principaux
-- Tests avant/après reprogrammation
-- Gains puissance/couple/vitesse/0-100
-- Moyennes par modèle
-- Export CSV/JSON
-- Envoi vers endpoint Formspree/Getform/Google Apps Script
+Domaine conseillé : dyno.damsreprog.fr
